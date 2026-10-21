@@ -12,7 +12,7 @@ I'm a full-stack developer with 3 years of experience building web applications.
 
 ### Find me online
 
-- [https://adamverner.cz/](https://adamverner.cz/)
+- [https://adamverner.cz/](https://adamverner.cz)
 
 <!--
 **Verdanmaer/Verdanmaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
